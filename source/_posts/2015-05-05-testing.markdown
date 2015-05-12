@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Testing"
+date: 2015-05-05 19:24:46 -0700
+comments: true
+categories:
+---
+<!--more-->
+This is a test of the awesome blogging system...
+
+```ruby
+puts 'Hello World'
+```
+
+[Check this out yo!](https://www.youtube.com/watch?v=POBI7OhGB18)
